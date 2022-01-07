@@ -2,10 +2,10 @@
 
 <br/>
 
-I am finishing my graduation in Computer Information Systems, looking for opportunities and collaboration in projects related to front-end using ReactJS.
+I am finishing my graduation in Computer Information Systems, looking for opportunities and collaboration in projects related to mobile development using React Native.
 
-- 🤝 I’m looking to collaborate on front-end projects with ReactJS.
-- 🌱 I’m currently learning about ReactJS and CSS.
+- 🤝 I’m looking to collaborate on mobile projects with React Native.
+- 🌱 I’m currently learning about React Native.
 - 🎯 I'm aiming to become a great developer with the most recent tools.
 - ⚡ Fun fact: I love to read / watch One Piece.
 
