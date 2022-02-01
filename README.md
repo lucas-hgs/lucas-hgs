@@ -6,7 +6,6 @@ I am finishing my graduation in Computer Information Systems, looking for opport
 
 - 🤝 I’m looking to collaborate on mobile projects with React Native.
 - 🌱 I’m currently learning about React Native.
-- 🎯 I'm aiming to become a great developer with the most recent tools.
 - ⚡ Fun fact: I love to read / watch One Piece.
 
 <details>
