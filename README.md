@@ -4,7 +4,7 @@
 
 I am finishing my graduation in Computer Information Systems, looking for opportunities and collaboration in projects related to mobile development using React Native.
 
-- 🤝 I’m looking to collaborate on mobile projects with React Native.
+- 🤝 I’m looking to work on mobile projects with React Native.
 - 🌱 I’m currently learning about React Native.
 - ⚡ Fun fact: I love to read / watch One Piece.
 
