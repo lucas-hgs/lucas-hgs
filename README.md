@@ -4,8 +4,6 @@
 <h2>SOBRE</h2>
 2 anos de experiência profissional como desenvolvedor, 8 meses com React Native. Fui responsável por arquitetar e criar o CRM de uma empresa multinacional utilizando Deluge, atualmente trabalhando como desenvolvedor mobile e criando aplicativos do zero até a publicação nas lojas.
 <h2>EXPERIÊNCIAS</h2>
-<h3>LHGS Soluções - Desenvolvedor React Native - Freelance ( junho/2023 -  atualmente)</h3>
-<p>Realizando trabalhos com React Native para fornecer a solução que os clientes estão requisitando. Utilizando o que há de novo no mercado para integrar em seus projetos. Tecnologias: React Native, TypeScript, React Query, REST API, MMKV, Shopify, Styled Components, testes.</p>
 <h3>Freedom! - Desenvolvedor Deluge ( novembro/2021 - novembro/2023)</h3>
 <p>Responsável por criar e arquitetar todo o sistema do CRM da empresa utilizando a linguagem Deluge. Anteriormente todo o trabalho era feito através de planilhas do Google, com o CRM todo o trabalho do time de vendas e suporte foi automatizado com funções dinâmicas que atendiam às suas necessidades, além de também automatizar o setor financeiro da empresa e calcular os gastos e lucro da empresa. Tecnologias: Deluge, REST API, JavaScript.</p>
 <h3>Projeto Pessoal - Desenvolvedor React Native - (dezembro/2023 - atualmente) - <a href="https://github.com/lucas-hgs/MinhaMochila">GitHub do Repo</a></h3>
